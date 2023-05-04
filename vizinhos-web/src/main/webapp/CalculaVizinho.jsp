@@ -58,7 +58,7 @@ div {
 			<label for="NumVizinhos">Informe um número: </label> 
 			<input type="text" name="NumVizinhos">
 			<br> <br>
-			<input type="submit">
+			<input type="submit" value="Calcular!!">
 		</form>
 	</div>
 
